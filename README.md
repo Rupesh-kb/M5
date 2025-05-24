@@ -103,11 +103,14 @@ Write C program for the below pyramid string pattern. Enter a string: PROGRAM En
 5.	End the program.
 
 ## PROGRAM:
-![image](https://github.com/user-attachments/assets/e5f946ed-6513-46a3-b345-01c571d23b44)
+![image](https://github.com/user-attachments/assets/d0a4ea91-2d2b-4cef-9b1e-0f01cda3ea75)
+
 
 
  ## OUTPUT
-![image](https://github.com/user-attachments/assets/31fd1f99-f738-402f-8fa2-83b13fbd2d9b)
+![image](https://github.com/user-attachments/assets/4c2471fc-8da2-403b-84a8-06908d29910a)
+
+
 
  
 
